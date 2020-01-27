@@ -1,6 +1,6 @@
-#Blumenstock Response
+# Blumenstock Response
 
-##January 27, 2020
+## January 27, 2020
 
 
 Describe the promise, pitfalls and ways forward Blumenstock uses as the foundation for his thesis.
