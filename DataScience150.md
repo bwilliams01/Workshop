@@ -4,6 +4,6 @@
 
 ### Brianna Williams
 
-[Blumenstock Response](https://github.com/bwilliams01/college-150/blob/master/README.md) Jan. 27
+[Blumenstock Response](https://github.com/bwilliams01/college-150/blob/master/Blumenstock.md) Jan. 27
 
 
