@@ -4,6 +4,6 @@
 
 ### Responses to Readings
 
-[Blumenstock Response](https://bwilliams01.github.io/workshop/) Jan. 27
+[Blumenstock Response](https://bwilliams01.github.io/workshop/Blumenstock) Jan. 27
 
 
