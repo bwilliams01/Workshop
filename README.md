@@ -8,4 +8,4 @@
 
 [Jahan Response](https://bwilliams01.github.io/workshop/Jahan) Feb. 3rd  
 
-
+[Annotated Bibliography](https://bwilliams01.github.io/workshop/Assignment1) Due Feb. 23
