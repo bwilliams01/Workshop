@@ -10,4 +10,3 @@
 
 [Barder Response](https://bwilliams01.github.io/workshop/Barder) Feb. 17
 
-[Annotated Bibliography](https://bwilliams01.github.io/workshop/Assignment1) Due Feb. 23
