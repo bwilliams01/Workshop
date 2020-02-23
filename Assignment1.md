@@ -6,7 +6,7 @@ February 23, 2020
 
 ## Problem Statement
 
-Define the problem. What is the harm I am seeking to investigate and why is it significant within the context of my selected LMIC?
+The problem I am investigating is child undernutrition in Haiti, especially following the 2010 earthquake. Undernutrition is the main source of mortality within developing countries. Currently, 1 in 5 children in Haiti suffer from malnutrition (Meds & Food for Kids in Haiti). The effects of child malnutrition include irreversable physical, mental, and emotional detriments. According to researchers at World Bank, 29.7% of children in Haiti are experiencing "moderate malnutrition," while 18.9% are categorized as "severely malnourished." Following the 2010 earthquake, various geospatial datasets have been able to track population disbursement in order to dispatch intense relief efforts. My sources below have outlined the basis of my problem statement on investigating child malnutrition in Haiti, and how to overcome these intense statsitics that span across all developing countries. 
 
 1. Spray, A. L., Eddy, B., Hipp, J. A., & Iannotti, L. (2013). Spatial Analysis of Undernutrition of Children in Léogâne Commune, Haiti. Food and Nutrition Bulletin, 34(4), 444–461. https://doi.org/10.1177/156482651303400410
 
