@@ -9,7 +9,9 @@ February 23, 2020
    ​	      The problem I am investigating is child undernutrition in Haiti, especially following the 2010 earthquake. Undernutrition is the main source of mortality within developing countries. Currently, 1 in 5 children in Haiti suffer from malnutrition (Meds & Food for Kids in Haiti). The effects of child malnutrition include irreversible physical, mental, and emotional detriments. According to researchers at World Bank, 29.7% of children in Haiti are experiencing "moderate malnutrition," while 18.9% are categorized as "severely malnourished." Following the 2010 earthquake, various geospatial datasets have been able to track population disbursement in order to dispatch intense relief efforts. My sources below have outlined the basis of my problem statement on investigating child malnutrition in Haiti, and how to overcome these intense statistics that span across all developing countries. 
    
    
+   
  ## Source 1: "Spatial Analysis of Undernutrition of Children in Léogâne Commune, Haiti
+
 
 
  Spray, A. L., Eddy, B., Hipp, J. A., & Iannotti, L. (2013). Spatial Analysis of Undernutrition of Children in Léogâne Commune, Haiti. Food and Nutrition Bulletin, 34(4), 444–461. https://doi.org/10.1177/156482651303400410
@@ -29,7 +31,9 @@ February 23, 2020
    ​	       By increasing access to child malnutrition programs, Coston's solution aligns with Amartya Sen's definition of human development. Providing the resources to areas where child undernutrition is relevant will improve living conditions for the people of Haiti. Through his research, Coston analyses the social and economic means of human development by introducing KTNY to affected children. Although it is not explicitly stated, by analyzing the population distribution of affected children, it enables these programs to help the economic and social status of the affected regions. Similarly, the sustainable development goal most relevant to the research are goal 2 (zero hunger) and goal 3 (good health and wellbeing). By using this tracker, it enables researchers to understand where to distribute clinics and how to improve the undernutrition dilemma. Coston uses the innovative geospatial dataset KTNY as well as the electronic medical record (EMR) to efficiently map their malnutrition data. Finally, by mapping the information from 2013 and 2014, Coston was able to answer his question of whether KTNY would be a valuable GIS dataset to analyze malnutrition in Haiti. He concludes that, while it proved to be efficient and valuable in analyzing these trends, there still needs to be future development in the program itself and access to care disparities. As I continue my research, this source provides minimal research and evidence surrounding my problem topic. Because it lacks content, I will look for a similar source that provides more information about how these programs aid Haitian children.
   
   
+  
  ## Source 3: "Child Hunger in the Developing World: An Analysis of Environmental and Social Correlates"
+
 
 
 3. Balk, Deborah, et al. “Child Hunger in the Developing World: An Analysis of Environmental and Social Correlates.” *Food Policy*, Pergamon, 10 Nov. 2005, www.sciencedirect.com/science/article/pii/S0306919205000886
