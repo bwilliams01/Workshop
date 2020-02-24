@@ -10,7 +10,7 @@ February 23, 2020
    
    
    
- ## Source 1: "Spatial Analysis of Undernutrition of Children in Léogâne Commune, Haiti"
+## Source 1: "Spatial Analysis of Undernutrition of Children in Léogâne Commune, Haiti"
 
 
 
@@ -31,7 +31,7 @@ Coston, A. (2015). Mapping of Malnutrition from EMR Data in Southern Haiti. http
    ​	       By increasing access to child malnutrition programs, Coston's solution aligns with Amartya Sen's definition of human development. Providing the resources to areas where child undernutrition is relevant will improve living conditions for the people of Haiti. Through his research, Coston analyses the social and economic means of human development by introducing KTNY to affected children. Although it is not explicitly stated, by analyzing the population distribution of affected children, it enables these programs to help the economic and social status of the affected regions. Similarly, the sustainable development goal most relevant to the research are goal 2 (zero hunger) and goal 3 (good health and wellbeing). By using this tracker, it enables researchers to understand where to distribute clinics and how to improve the undernutrition dilemma. Coston uses the innovative geospatial dataset KTNY as well as the electronic medical record (EMR) to efficiently map their malnutrition data. Finally, by mapping the information from 2013 and 2014, Coston was able to answer his question of whether KTNY would be a valuable GIS dataset to analyze malnutrition in Haiti. He concludes that, while it proved to be efficient and valuable in analyzing these trends, there still needs to be future development in the program itself and access to care disparities. As I continue my research, this source provides minimal research and evidence surrounding my problem topic. Because it lacks content, I will look for a similar source that provides more information about how these programs aid Haitian children.
   
   
- ## Source 3: "Child Hunger in the Developing World: An Analysis of Environmental and Social Correlates"
+## Source 3: "Child Hunger in the Developing World: An Analysis of Environmental and Social Correlates"
 
 
 Balk, Deborah, et al. “Child Hunger in the Developing World: An Analysis of Environmental and Social Correlates.” *Food Policy*, Pergamon, 10 Nov. 2005, www.sciencedirect.com/science/article/pii/S0306919205000886
