@@ -10,4 +10,6 @@
 
 [Barder Response](https://bwilliams01.github.io/workshop/Barder) Feb. 17
 
-[Annotated Bibliography](https://bwilliams01.github.io/workshop/Assignment1) Due Feb. 25
+[Annotated Bibliography](https://bwilliams01.github.io/workshop/Assignment1) Feb. 25
+
+[Anderson & Kitchin Response](https://bwilliams01.github.io/workshop/AndersonKitchin) Feb. 25 
