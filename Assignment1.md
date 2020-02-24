@@ -7,12 +7,8 @@ February 23, 2020
 ## Problem Statement
 
    ​	      The problem I am investigating is child undernutrition in Haiti, especially following the 2010 earthquake. Undernutrition is the main source of mortality within developing countries. Currently, 1 in 5 children in Haiti suffer from malnutrition (Meds & Food for Kids in Haiti). The effects of child malnutrition include irreversible physical, mental, and emotional detriments. According to researchers at World Bank, 29.7% of children in Haiti are experiencing "moderate malnutrition," while 18.9% are categorized as "severely malnourished." Following the 2010 earthquake, various geospatial datasets have been able to track population disbursement in order to dispatch intense relief efforts. My sources below have outlined the basis of my problem statement on investigating child malnutrition in Haiti, and how to overcome these intense statistics that span across all developing countries. 
-   
-   
-   
+      
 ## Source 1: "Spatial Analysis of Undernutrition of Children in Léogâne Commune, Haiti"
-
-
 
 Spray, A. L., Eddy, B., Hipp, J. A., & Iannotti, L. (2013). Spatial Analysis of Undernutrition of Children in Léogâne Commune, Haiti. Food and Nutrition Bulletin, 34(4), 444–461. https://doi.org/10.1177/156482651303400410
 
@@ -20,9 +16,7 @@ Spray, A. L., Eddy, B., Hipp, J. A., & Iannotti, L. (2013). Spatial Analysis of 
    
    ​  		Furthermore, the article relates to Amartya Sen's idea that healthcare is essential within a person's life. In order to be able to have sustainable growth within a nation, available healthcare services are imperative. The sustainable development goals considered within the study align with the Haitian Government goals of improving water, sanitation, and food security. Through analyzing the undernutrition of children in Léogâne, Haiti with geographical weighted datasets (GWS) and geographic information systems (GIS), the study concluded that there is promising development in Haiti's child malnutrition issue. The authors use these geospatial datasets and methodically hold cross-sectional household surveys of the region. GWR was specifically used to evaluate how "undernutrition and its household variants vary across the region." These geospatial datasets have given a more profound insight on how to improve nutrition within various regions. The study aimed to characterize child undernutrition in Haiti through the usage of GWR and concluded with their methods that undernutrition in children were often found in "pockets" of the area, rather than being evenly distributed in the region's entirety. 
 
-
 ## Source 2: "Mapping of Malnutrition from EMR Data in Southern Haiti"
-
 
 Coston, A. (2015). Mapping of Malnutrition from EMR Data in Southern Haiti. http://hdl.handle.net/2152.5/1525
 
@@ -30,9 +24,7 @@ Coston, A. (2015). Mapping of Malnutrition from EMR Data in Southern Haiti. http
 
    ​	       By increasing access to child malnutrition programs, Coston's solution aligns with Amartya Sen's definition of human development. Providing the resources to areas where child undernutrition is relevant will improve living conditions for the people of Haiti. Through his research, Coston analyses the social and economic means of human development by introducing KTNY to affected children. Although it is not explicitly stated, by analyzing the population distribution of affected children, it enables these programs to help the economic and social status of the affected regions. Similarly, the sustainable development goal most relevant to the research are goal 2 (zero hunger) and goal 3 (good health and wellbeing). By using this tracker, it enables researchers to understand where to distribute clinics and how to improve the undernutrition dilemma. Coston uses the innovative geospatial dataset KTNY as well as the electronic medical record (EMR) to efficiently map their malnutrition data. Finally, by mapping the information from 2013 and 2014, Coston was able to answer his question of whether KTNY would be a valuable GIS dataset to analyze malnutrition in Haiti. He concludes that, while it proved to be efficient and valuable in analyzing these trends, there still needs to be future development in the program itself and access to care disparities. As I continue my research, this source provides minimal research and evidence surrounding my problem topic. Because it lacks content, I will look for a similar source that provides more information about how these programs aid Haitian children.
   
-  
 ## Source 3: "Child Hunger in the Developing World: An Analysis of Environmental and Social Correlates"
-
 
 Balk, Deborah, et al. “Child Hunger in the Developing World: An Analysis of Environmental and Social Correlates.” *Food Policy*, Pergamon, 10 Nov. 2005, www.sciencedirect.com/science/article/pii/S0306919205000886
 
@@ -40,9 +32,7 @@ Balk, Deborah, et al. “Child Hunger in the Developing World: An Analysis of En
 
    ​	      The authors conclusion that household differences, environment, and socio-economics all have an impact on the availability of food coincide with Amartya's idea of how an income increase can benefit the development of a society. Specifically, their study addresses socio-economic and cultural differences among countries. Haiti specifically is not addressed although they provide data for the country. In totality though, Haiti's sustainable goal of improving socioeconomics is addressed in the research paper. The authors use external geospatial datasets like GPS-point locations and DHS data to analyze the prevalence of malnutrition in Africa with population and road density mapping. With these datasets, the authors "undertook a simple ordinary least squares (OLS) regression analysis to test hypotheses from the UNICEF framework" to measure the compatibility of the data. By calculating the Z-scores of the children as well as the standard deviations, they were able to observe weight trends of children aged 1-3. Overall, the authors were able to answer their hypothesis that household and environmental factors affect the nutritional availability for children in developing countries. This source provides excellent reasoning and research on child malnutrition in Haiti.
 
-
 ## Source 4: "Improved Response to Disasters and Outbreaks by Tracking Population Movements with Mobile Phone Network Data: A Post-Earthquake Geospatial Study in Haiti"
-
 
 Bengtsson L, Lu X, Thorson A, Garfield R, von Schreeb J (2011) Improved Response to Disasters and Outbreaks by Tracking Population Movements with Mobile Phone Network Data: A Post-Earthquake Geospatial Study in Haiti. PLOS Medicine 8(8). https://doi.org/10.1371/journal.pmed.1001083
 
@@ -50,9 +40,7 @@ Bengtsson L, Lu X, Thorson A, Garfield R, von Schreeb J (2011) Improved Response
 
    ​	      Millions of people are affected by natural disasters annually causing environmental, economic, and human loss. Throughout the article, they relate to Amartya Sen's definition of human development by improving government intervention during natural disasters. Through their data analysis, distributing aid during a crisis, like the 2010 earthquake, can be more accurate and valuable. A human instinct following such a disaster is to flee the scene, and while this is beneficial immediately, this instinct makes it difficult and complicated to distribute aid and relief efforts. Unfortunately, there is no way to track immediate data distribution; however, with their SIM card data, processing the distribution becomes easier and faster. While the article does not directly correlate with my intended research of childhood malnutrition within Haiti following the earthquake, it provides valuable information surrounding population distribution following. This data, in turn, correlates with where child malnutrition is most evident. Geospatia data present in the research, such as SIM card data and satellite imagery, have supplied a faster way to see population trends following these disasters. The results of this data allowed researchers to find a way to estimate population distribution faster than before. This source overall does not directly relate to my problem topic, but adds reasoning and evidence on how the earthquake affected Haitians directly. 
 
-
 ## Source 5: "Geospatial Disaster Response during the Haiti Earthquake: A Case Study Spanning Airborne Deployment, Data Collection, Transfer, Processing, and Dissemination"
-
 
 Aardt, J. A. V., Mckeown, D., Faulring, J., Raqueño, N., Casterline, M., Renschler, C., … Gill, S. (2011). Geospatial Disaster Response during the Haiti Earthquake: A Case Study Spanning Airborne Deployment, Data Collection, Transfer, Processing, and Dissemination. *Photogrammetric Engineering & Remote Sensing*, *77*(9), 943–952. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.388.2622&rep=rep1&type=pdf
 
