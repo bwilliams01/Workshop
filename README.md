@@ -12,7 +12,7 @@
 
 [Anderson & Kitchin Response](https://bwilliams01.github.io/workshop/AndersonKitchin) Feb. 25 
 
-[Stevens Response] (https://bwilliams01.github.io/workshop/Stevens) Mar. 25
+[Stevens Response](https://bwilliams01.github.io/workshop/Stevens) Mar. 25
 
 
 ### Assignments 
