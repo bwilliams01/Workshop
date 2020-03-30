@@ -14,6 +14,8 @@
 
 [Stevens Response](https://bwilliams01.github.io/workshop/Stevens) Mar. 25
 
+[Nieves et al. Response](https://bwilliams01.github.io/workshop/Nieves) Mar. 30
+
 
 ### Assignments 
 
