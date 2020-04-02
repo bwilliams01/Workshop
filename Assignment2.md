@@ -1,6 +1,6 @@
 <div align="center"> # Child Malnutrition in Haiti as a result of the 2010 Earthquake: How Disaster Affects Food Security in Developing Countries
 
-<div align="right"> #### **Introduction**
+<div align="left"> #### **Introduction**
 
 ​		This literature review analyzes research surrounding disasters and its effects on child malnutrition in developing countries, specifically Haiti. Child malnutrition can be a cause of long-term effects such as inadequate dietary intake and diseases, as well as short term effects like natural disasters and political turmoil. For this research, natural disasters in Haiti and their impacts on child malnutrition are investigated. In 2010, Haiti was struck with a 7.0 magnitude earthquake with an epicenter at Léogâne, which devastated nearly 3 million Haitian people. As an immediate effect of this natural disaster, child malnutrition became a relevant developmental issue in Haiti. 
 
@@ -12,7 +12,7 @@
 
 <div align="center"> #### **Review of Literature**
 
-<div align="right"> ##### Child Malnutrition in Haiti: DHS & SMART Survey Data
+<div align="left"> ##### Child Malnutrition in Haiti: DHS & SMART Survey Data
 
 ​		Haiti is known to be notorious for high child mortality rates due to food insecurity. Following the earthquake of 2010, there was unprecedented loss of human life, vegetation, and physical infrastructure. In response, Haiti received intensive humanitarian aid in order to account for these several losses. According to Ayoya et al, the Haitian government predominantly focused on improving nutrition amongst the coastal communes heavily impacted, especially Gonaives, Jacmel, Leogane, Petit Goave, and Port-au-Prince (Ayoya et al 2013). The bases of Ayoya’s research imply that these affected areas lacked nutrition services. For their research method, they evaluated trends in child malnutrition from the Haiti Demographic and Health Survey (HDHS) from 2005-06. Additionally, they investigated trends following the earthquake from a Standardized Monitoring and Assessment of Relief and Transitions (SMART) survey dated in 2012. As stated in the article, Haiti had undergone extensive effort caring for the nutrition of the children impacted by the earthquake. Services including inpatient stabilization, outpatient programs, optimal infant feeding practices continued well into May of 2012. 
 
