@@ -20,3 +20,5 @@
 ### Assignments 
 
 [Annotated Bibliography](https://bwilliams01.github.io/workshop/Assignment1) Feb. 25
+
+[Literature Review](https://bwilliams01.github.io/workshop/Assignment2) April 5
