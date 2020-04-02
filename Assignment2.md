@@ -1,6 +1,6 @@
-<div align="center"> Child Malnutrition in Haiti as a result of the 2010 Earthquake: How Disaster Affects Food Security in Developing Countries
+<div align="center"> # Child Malnutrition in Haiti as a result of the 2010 Earthquake: How Disaster Affects Food Security in Developing Countries
 
-#### **Introduction**
+<div align="right"> #### **Introduction**
 
 ​		This literature review analyzes research surrounding disasters and its effects on child malnutrition in developing countries, specifically Haiti. Child malnutrition can be a cause of long-term effects such as inadequate dietary intake and diseases, as well as short term effects like natural disasters and political turmoil. For this research, natural disasters in Haiti and their impacts on child malnutrition are investigated. In 2010, Haiti was struck with a 7.0 magnitude earthquake with an epicenter at Léogâne, which devastated nearly 3 million Haitian people. As an immediate effect of this natural disaster, child malnutrition became a relevant developmental issue in Haiti. 
 
@@ -10,9 +10,9 @@
 
 ​		Gaps identified in this literature review include the improved conditions following the earthquake. Because humanitarian aid was fairly focused on the improvement of food security, malnutrition rates steadily decreased and aid efforts had been slowly removed. Thus, it is unclear if the sudden removal of aid contributes to any geospatial evidence of the prevalence of malnutrition. Additionally, because the investigated disaster is solely the 2010 earthquake, which predates Hurricane Matthew of 2016 or the cholera outbreak, data is slightly skewed or can be interpreted irrelevant as future disasters impact these statistics and research. Finally, social determinants of child malnutrition, such as are hardly researched. In countries where child malnutrition is extreme, it is important to research the population distribution of these children in order to allocate resources properly.
 
-#### **Review of Literature**
+<div align="center"> #### **Review of Literature**
 
-##### Child Malnutrition in Haiti: DHS & SMART Survey Data
+<div align="right"> ##### Child Malnutrition in Haiti: DHS & SMART Survey Data
 
 ​		Haiti is known to be notorious for high child mortality rates due to food insecurity. Following the earthquake of 2010, there was unprecedented loss of human life, vegetation, and physical infrastructure. In response, Haiti received intensive humanitarian aid in order to account for these several losses. According to Ayoya et al, the Haitian government predominantly focused on improving nutrition amongst the coastal communes heavily impacted, especially Gonaives, Jacmel, Leogane, Petit Goave, and Port-au-Prince (Ayoya et al 2013). The bases of Ayoya’s research imply that these affected areas lacked nutrition services. For their research method, they evaluated trends in child malnutrition from the Haiti Demographic and Health Survey (HDHS) from 2005-06. Additionally, they investigated trends following the earthquake from a Standardized Monitoring and Assessment of Relief and Transitions (SMART) survey dated in 2012. As stated in the article, Haiti had undergone extensive effort caring for the nutrition of the children impacted by the earthquake. Services including inpatient stabilization, outpatient programs, optimal infant feeding practices continued well into May of 2012. 
 
