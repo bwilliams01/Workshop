@@ -2,7 +2,6 @@
   
 # Child Malnutrition in Haiti as a result of the 2010 Earthquake: How Disaster Affects Food Security in Developing Countries
 
-<div align="left"> 
  
 #### **Introduction**
 
@@ -13,12 +12,8 @@
 ​		Following the 2010 earthquake, various geospatial datasets have been able to track population disbursement in order to dispatch intense relief efforts. As evidenced in this literature review, various geospatial datasets are prevalent in the use to monitor the outspread of child malnutrition in Haiti in areas that were most impacted by the 2010 earthquake and cholera outbreak. There is a correlation amongst all the sources to examine geospatial and machine learning solutions to distribute humanitarian aid, evaluate population distribution, and manage the cultural stress of post-disaster Haiti. In the context of Amartya Sen’s definition of human development, solving food security and protecting the country’s children is a basic human right. In order to be able to have sustainable growth within a nation, available healthcare services are imperative. Likewise, providing the resources to areas where child undernutrition is relevant will improve living conditions for the people of Haiti.
 
 ​		Gaps identified in this literature review include the improved conditions following the earthquake. Because humanitarian aid was fairly focused on the improvement of food security, malnutrition rates steadily decreased and aid efforts had been slowly removed. Thus, it is unclear if the sudden removal of aid contributes to any geospatial evidence of the prevalence of malnutrition. Additionally, because the investigated disaster is solely the 2010 earthquake, which predates Hurricane Matthew of 2016 or the cholera outbreak, data is slightly skewed or can be interpreted irrelevant as future disasters impact these statistics and research. Finally, social determinants of child malnutrition, such as are hardly researched. In countries where child malnutrition is extreme, it is important to research the population distribution of these children in order to allocate resources properly.
-
-<div align="center"> 
   
 #### **Review of Literature**
-
-<div align="left"> 
   
 ##### Child Malnutrition in Haiti: DHS & SMART Survey Data
 
