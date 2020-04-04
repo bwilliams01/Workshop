@@ -1,11 +1,6 @@
-
-
- 
-<center>Child Malnutrition in Haiti as a result of the 2010 Earthquake: How Disaster Affects Food Security in Developing Countries</center>
- 
+ <center>Child Malnutrition in Haiti as a result of the 2010 Earthquake: How Disaster Affects Food Security in Developing Countries</center>
 
 <center>By Brianna Williams</center>
-
 
 <center>5 April 2020</center>
 
@@ -18,7 +13,6 @@
   
 <center>Human Development Topic</center>
 
-<div align="left">
   
   ​		For development to improve within lower to middle income countries, having access to sustainable and reliable healthcare is vital to expand one’s society. A major concern for development in these developing countries, especially Haiti, is their child mortality and malnutrition rates. Following the 2010 earthquake, various geospatial datasets have been able to track population disbursement in order to dispatch intense relief efforts. As evidenced in this literature review, population based survey data has been proven to be prevalent in the use to monitor the outspread of child malnutrition in Haiti in areas that were most impacted by the 2010 earthquake and cholera outbreak. There is a correlation amongst all the sources to examine geospatial and machine learning solutions to distribute humanitarian aid, evaluate population distribution, and manage the cultural stress of post-disaster Haiti. In the context of Amartya Sen’s definition of human development, solving food security and protecting the country’s children is a basic human right. In order to be able to have sustainable growth within a nation, available healthcare services are imperative. Likewise, providing the resources to areas where child undernutrition is relevant will improve living conditions for the people of Haiti.
 
@@ -26,7 +20,6 @@
   
 <center>Geospatial Data Methods: DHS & SMART Survey Data</center>
 
-<div align="left">
   
  ​		Haiti is known to be notorious for high child mortality rates due to food insecurity. Following the earthquake of 2010, there was unprecedented loss of human life, vegetation, and physical infrastructure. In response, Haiti received intensive humanitarian aid in order to account for these several losses. According to Ayoya et al, the Haitian government predominantly focused on improving nutrition amongst the coastal communes heavily impacted, especially Gonaives, Jacmel, Leogane, Petit Goave, and Port-au-Prince (Ayoya et al 2013). The bases of Ayoya’s research imply that these affected areas lacked nutrition services. For their research method, they evaluated trends in child malnutrition from the Haiti Demographic and Health Survey (HDHS) from 2005-06. Additionally, they investigated trends following the earthquake from a Standardized Monitoring and Assessment of Relief and Transitions (SMART) survey dated in 2012. As stated in the article, Haiti had undergone extensive effort caring for the nutrition of the children impacted by the earthquake. Services including inpatient stabilization, outpatient programs, optimal infant feeding practices continued well into May of 2012. 
 
@@ -42,7 +35,6 @@
   
 <center>Geospatial Data Method: Satellite and Aerial Imagery</center>
 
-<div align="left"> 
   
  ​				As another means to investigate child malnutrition and other negative effects of the 2010 earthquake, researchers at UD Disaster Research Center utilized three types of data collecting techniques: “(1) automated, semi-automated, and visual analysis of high resolution satellite and aerial remote sensing imagery; (2) acquisition and interpretation of street-view GPS referenced photographs and video using the VIEWSTM field data collection system; and (3) interviews with NGOs; community members and leaders; service providers involved in community-scale relief, response, and recovery efforts; and representatives of government utility agencies” (Adams et al 2010). 
 
@@ -53,16 +45,12 @@
   
 </center>Geospatial Data Method: Spatial Video</center>
 
-<div align="left">
-  
 ​			Similar to aerial and satellite imagery, spatial video was used to determine health risks within Haiti following the earthquake. Curtis, Blackburn, Widmer, & Morris (2013) composed a fine-scale geospatial research analysing health risks in developing urban areas. The case study ultimately maps out health risks within the coastal communities of Haiti--the specific areas where the earthquake hit. Methodically, the authors evaluate spatial video to collect information regarding water, trash accumulation, and other covariates that identify population and other cultural phenomena. The data was later digitized into Google Earth then interpreted into a GIS and spatial filtering approaches. They found that there were heavily concentrated sources of diarrheal disease, which is quite prevalent in children affected by malnutrition. Similarly, they found concentrated areas near schools, which is prevalent for cholera education prevention. Overall, their results yielded that health risk data vary in concentration, however schools ran a high risk in contracting these health risks, or hot spots. They concluded that the spatial video method is beneficial in identifying health risks, such as child malnutrition, in order to improve the area or allocating resources. The process is described as rapid and can be repeated a number of times.
 
 ​			As stated in the article, one of the main United Nations Millennium Development Goals (MDGs) is addressing health risks associated with informal settlements. This idea is similar to Haiti’s developmental goals of improving health services and improving food security. Predominantly, population data in Haiti is derived from cell phone data; however, population is debated within post-earthquake towns, ranging from either 120,000 to 30,000. Therefore, the article's main intention is to research whether spatial video can provide a more accurate and updated method of fine-scale data input layer suitable for inclusion in other modeling frames. Or, in other words, whether it can be used to make a spatial risk assessment for evaluating traditional disease related variables, and map nearby schools in the community.
   
 <center>Discussion & Conclusion</center>
 
-
-<div align="left">
   
 in progress
   
