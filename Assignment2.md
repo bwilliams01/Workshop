@@ -68,7 +68,6 @@ in progress
   
 <center>Works Consulted</center>
 
-<div align="left"> 
   
 Brink, S., Chang, S., Eguchi, R., Davidson, R., Amyx, P., Pyatt, S., … Honey, M. (2010, October 1). Assessing Community-scale Damage, Disruption, and Early Recovery in Post-earthquake Haiti. *University of Delaware Disaster Research Center.* Retrieved from <http://udspace.udel.edu/handle/19716/5851>
 
