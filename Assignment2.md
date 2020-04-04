@@ -42,7 +42,6 @@
 
 ​		While this data is crucial in identifying nutrition trends via aerial and satellite imagery, there are a few gaps within their research. Primarily, there is little evidence on how the quake affected children directly. It is assumed that food impacts a wide variety of demographics, including children, yet there is no conclusive data surrounding the impacts on young children. Additionally, as previously stated, there is no linear correlation between disruption of these conditions and destruction of buildings. The researchers state that since there were a sequence of natural disasters prior to the earthquake, there is no conclusive evidence of whether the environmental turmoil also had an impact on these conditions. They state that the relationship between damage and disruption is extremely complex and requires further investigation in terms of recovery. 
   
-  
 </center>Geospatial Data Method: Spatial Video</center>
 
 ​			Similar to aerial and satellite imagery, spatial video was used to determine health risks within Haiti following the earthquake. Curtis, Blackburn, Widmer, & Morris (2013) composed a fine-scale geospatial research analysing health risks in developing urban areas. The case study ultimately maps out health risks within the coastal communities of Haiti--the specific areas where the earthquake hit. Methodically, the authors evaluate spatial video to collect information regarding water, trash accumulation, and other covariates that identify population and other cultural phenomena. The data was later digitized into Google Earth then interpreted into a GIS and spatial filtering approaches. They found that there were heavily concentrated sources of diarrheal disease, which is quite prevalent in children affected by malnutrition. Similarly, they found concentrated areas near schools, which is prevalent for cholera education prevention. Overall, their results yielded that health risk data vary in concentration, however schools ran a high risk in contracting these health risks, or hot spots. They concluded that the spatial video method is beneficial in identifying health risks, such as child malnutrition, in order to improve the area or allocating resources. The process is described as rapid and can be repeated a number of times.
@@ -61,13 +60,18 @@ in progress
   
 Brink, S., Chang, S., Eguchi, R., Davidson, R., Amyx, P., Pyatt, S., … Honey, M. (2010, October 1). Assessing Community-scale Damage, Disruption, and Early Recovery in Post-earthquake Haiti. *University of Delaware Disaster Research Center.* Retrieved from <http://udspace.udel.edu/handle/19716/5851>
 
+
 Ayoya, M. A., Heidkamp, R., Ngnie, I., Pierre, J. M., & Stoltzfus, R. J. (2013, November 1). Child malnutrition in Haiti: progress despite disasters. Retrieved from <https://www.ghspjournal.org/content/1/3/389>
+
 
 Balk, D., Storeygard, A., Levy, M., Gaskell, J., Sharma, M., & Flor, R. (2005, November 10). Child hunger in the developing world: An analysis of environmental and social correlates. Retrieved from <http://www.sciencedirect.com/science/article/pii/S0306919205000886>
 
+
 Cuneo, C. N., Dansereau, E., Habib, A. R., Davies, M., Ware, S., & Kornetsky, K. (2017). Treating Childhood Malnutrition in Rural Haiti: Program Outcomes and Obstacles. *Annals of Global Health,* 83(2), 300.<http://dx.doi.org/10.1016/j.aogh.2017.05.003>
 
+
 Curtis, A., Blackburn, J. K., Widmer, J. M., & Jr, J. M. (2013). A ubiquitous method for street scale spatial data collection and analysis in challenging urban environments: mapping health risks using spatial video in Haiti. *International Journal of Health Geographics,* 12(1), 21. <https://doi.org/10.1186/1476-072X-12-21>
+
 
 Reimagine the Future: Innovation for every child. (2015). *UNICEF's The State of the Worlds Children 2015 State of the Worlds Children,* 1–2. <http://www.unicef.org/publications/files/SOWC_2015_Summary_and_Tables.pdf>   
 
