@@ -1,13 +1,13 @@
+<div align="center">
+  
 # Child Malnutrition in Haiti as a result of the 2010 Earthquake: How Disaster Affects Food Security in Developing Countries
 
-<div align="center">By Brianna Williams
+By Brianna Williams
 
-<div align="center">5 April 2020 
-
-<div align="center"> 
+5 April 2020 
 
 
-**Introduction**
+#### Introduction
 
 <div align="left">​		This literature review analyzes research surrounding disasters and its effects on child malnutrition in developing countries, specifically Haiti. Child malnutrition can be a cause of long-term effects such as inadequate dietary intake and diseases, as well as short term effects like natural disasters and political turmoil. For this research, natural disasters in Haiti and their impacts on child malnutrition are investigated. In 2010, Haiti was struck with a 7.0 magnitude earthquake with an epicenter at Léogâne, which devastated nearly 3 million Haitian people. As an immediate effect of this natural disaster, child malnutrition became a relevant developmental issue in Haiti. 
 
@@ -15,7 +15,7 @@
 
 <div align="center">
   
-**Human Development Topic**
+#### Human Development Topic 
 
 <div align="left">
   
@@ -25,7 +25,7 @@
 
 <div align="center">
   
- **Geospatial Data Methods: DHS & SMART Survey Data**	
+ #### Geospatial Data Methods: DHS & SMART Survey Data
 
 <div align="left">
   
@@ -43,7 +43,7 @@
 
 <div align="center">
   
-**Geospatial Data Method: Satellite and Aerial Imagery**
+#### Geospatial Data Method: Satellite and Aerial Imagery
 
 <div align="left"> 
   
@@ -55,7 +55,7 @@
 
 <div align="center">
   
-**Geospatial Data Method: Spatial Video**	
+#### Geospatial Data Method: Spatial Video	
 
 <div align="left">
   
@@ -65,7 +65,7 @@
 
 <div align="center">
   
-**Discussion & Conclusion**
+ #### Discussion & Conclusion
 
 
 <div align="left">
@@ -74,7 +74,7 @@ in progress
   
 <div align="center">
   
-**Works Consulted**
+#### Works Consulted
 
 <div align="left"> 
   
