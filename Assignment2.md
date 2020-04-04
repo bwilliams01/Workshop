@@ -13,6 +13,7 @@
 
 <div align="center">
   
+  
 #### Human Development Topic 
 
 <div align="left">
@@ -22,6 +23,7 @@
 ​		According to University of Delaware's Disaster Research Center, sectoral conditions that had substantial impact following the quake are as follows: drinking water, energy/fuel/utilities, sanitation, education, healthcare, shelter, food and food-preparation items, livelihood, safety, social networks, and clearing of debris. These conditions were noted to have a disruption on the direct development of Haiti and stunted the process. However, four months after the earthquake, researchers uncovered that the conditions needed to improve nutrition and healthcare within the country improved significantly (i.e. drinking water, health care). Through their research, they discovered that availability of food significantly improved, yet the access was lagging severely. This is mainly accredited to the fact that it was a necessity to feed those affected by the quake, which led to a depletion in the agriculture industry.  
 
 <div align="center">
+  
   
  #### Geospatial Data Methods: DHS & SMART Survey Data
 
@@ -41,6 +43,7 @@
 
 <div align="center">
   
+  
 #### Geospatial Data Method: Satellite and Aerial Imagery
 
 <div align="left"> 
@@ -53,6 +56,8 @@
 
 <div align="center">
   
+  
+  
 #### Geospatial Data Method: Spatial Video	
 
 <div align="left">
@@ -63,6 +68,8 @@
 
 <div align="center">
   
+  
+  
  #### Discussion & Conclusion
 
 
@@ -71,6 +78,8 @@
 in progress
   
 <div align="center">
+  
+  
   
 #### Works Consulted
 
