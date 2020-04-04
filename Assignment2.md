@@ -5,9 +5,9 @@
  
 </center>
 
-</center> By Brianna Williams
+<center> By Brianna Williams </center>
 
-5 April 2020 </center>
+<center> 5 April 2020 </center>
 
 
 #### Introduction
