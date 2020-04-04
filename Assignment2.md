@@ -1,13 +1,14 @@
+:-:
 # Child Malnutrition in Haiti as a result of the 2010 Earthquake: How Disaster Affects Food Security in Developing Countries
 
-<div align="center"> By Brianna Williams
+ By Brianna Williams
 
 5 April 2020 
 
 
 #### Introduction
 
-<div align="left">​		This literature review analyzes research surrounding disasters and its effects on child malnutrition in developing countries, specifically Haiti. Child malnutrition can be a cause of long-term effects such as inadequate dietary intake and diseases, as well as short term effects like natural disasters and political turmoil. For this research, natural disasters in Haiti and their impacts on child malnutrition are investigated. In 2010, Haiti was struck with a 7.0 magnitude earthquake with an epicenter at Léogâne, which devastated nearly 3 million Haitian people. As an immediate effect of this natural disaster, child malnutrition became a relevant developmental issue in Haiti. 
+​		This literature review analyzes research surrounding disasters and its effects on child malnutrition in developing countries, specifically Haiti. Child malnutrition can be a cause of long-term effects such as inadequate dietary intake and diseases, as well as short term effects like natural disasters and political turmoil. For this research, natural disasters in Haiti and their impacts on child malnutrition are investigated. In 2010, Haiti was struck with a 7.0 magnitude earthquake with an epicenter at Léogâne, which devastated nearly 3 million Haitian people. As an immediate effect of this natural disaster, child malnutrition became a relevant developmental issue in Haiti. 
 
 ​		Haiti is notorious for malnutrition in the Western hemisphere (Cuneo, Dansereau, Habib 2017). Currently, 1 in 5 children in Haiti suffer from malnutrition (Meds & Food for Kids in Haiti). According to UNICEF's World’s Children 2015 Report, “Haiti’s under-five mortality was 73/1,000 live births and its infant mortality rates were high at 55 and 25 per 1,000 live births” (United Nations Children’s Fund). The effects of child malnutrition include irreversible physical, mental, and emotional detriment. This is predominantly because any children in Haiti and other developing countries lack adequate resources to maintain survival, including food, water, clothing, and substantial health services. Accessible and free education is also very limited and private education is expensive. This paper intends to investigate the usefulness of Demographic and Health Surveys (DHS), satellite, and spatial video data has on predicting, comparing, and illustrating the effects the 2010 earthquake had on Haitian nutrition for children. 
 
