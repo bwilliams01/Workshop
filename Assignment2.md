@@ -2,7 +2,7 @@
 
 <div align="center"> By Brianna Williams
 
-<div align="center"> 5 April 2020 
+5 April 2020 
 
 
 #### Introduction
