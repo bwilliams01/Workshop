@@ -49,16 +49,16 @@ By Brianna Williams
   
 **Works Consulted**
 
-Adams, Beverley, et al. Assessing Community-scale Damage, Disruption, and Early Recovery in Post-earthquake Haiti. University of Delaware Disaster Research Center. http://udspace.udel.edu/handle/19716/5851
+Adams, Beverley, et al. Assessing Community-scale Damage, Disruption, and Early Recovery in Post-earthquake Haiti. University of Delaware Disaster Research Center. <http://udspace.udel.edu/handle/19716/5851>
 
-Ayoya, Mohamed & Heidkamp, Rebecca & Ngnie-Teta, Ismael & Pierre, Joseline & Stoltzfus, Rebecca. (2013). Child malnutrition in Haiti: Progress despite disasters. Global health, science and practice. 1. 389-396. https://www.ghspjournal.org/content/1/3/389
+Ayoya, Mohamed & Heidkamp, Rebecca & Ngnie-Teta, Ismael & Pierre, Joseline & Stoltzfus, Rebecca. (2013). Child malnutrition in Haiti: Progress despite disasters. Global health, science and practice. 1. 389-396. <https://www.ghspjournal.org/content/1/3/389>
 
-Balk, Deborah, et al. “Child Hunger in the Developing World: An Analysis of Environmental and Social Correlates.” *Food Policy*, Pergamon, 10 Nov. 2005, http://www.sciencedirect.com/science/article/pii/S0306919205000886 
+Balk, Deborah, et al. “Child Hunger in the Developing World: An Analysis of Environmental and Social Correlates.” *Food Policy*, Pergamon, 10 Nov. 2005, <http://www.sciencedirect.com/science/article/pii/S0306919205000886>
 
-Cuneo, Charles & Dansereau, Emily & Habib, Anand & Davies, Mary & Ware, Samuel & Kornetsky, Kenneth. (2017). Treating Childhood Malnutrition in Rural Haiti: Program Outcomes and Obstacles. Annals of Global Health. 83. 300-310. http://dx.doi.org/10.1016/j.aogh.2017.05.003
+Cuneo, Charles & Dansereau, Emily & Habib, Anand & Davies, Mary & Ware, Samuel & Kornetsky, Kenneth. (2017). Treating Childhood Malnutrition in Rural Haiti: Program Outcomes and Obstacles. Annals of Global Health. 83. 300-310. <http://dx.doi.org/10.1016/j.aogh.2017.05.003>
 
-Curtis, A., Blackburn, J.K., Widmer, J.M. *et al.* A ubiquitous method for street scale spatial data collection and analysis in challenging urban environments: mapping health risks using spatial video in Haiti. *Int J Health Geogr* 12, 21 (2013). https://doi.org/10.1186/1476-072X-12-21
+Curtis, A., Blackburn, J.K., Widmer, J.M. A ubiquitous method for street scale spatial data collection and analysis in challenging urban environments: mapping health risks using spatial video in Haiti. *Int J Health Geogr* 12, 21 (2013). <https://doi.org/10.1186/1476-072X-12-21>
 
-United Nations Children’s Fund. The State of the World’s Children 2015: Reimagine the Future - Innovation for every child. http://www.unicef.org/publications/files/SOWC_2015_Summary_and_Tables.pdf.   
+United Nations Children’s Fund. The State of the World’s Children 2015: Reimagine the Future - Innovation for every child. <http://www.unicef.org/publications/files/SOWC_2015_Summary_and_Tables.pdf>   
 
 
