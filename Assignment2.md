@@ -1,5 +1,9 @@
 
-<center># Child Malnutrition in Haiti as a result of the 2010 Earthquake: How Disaster Affects Food Security in Developing Countries</center>
+<center>
+ 
+# Child Malnutrition in Haiti as a result of the 2010 Earthquake: How Disaster Affects Food Security in Developing Countries
+ 
+</center>
 
  By Brianna Williams
 
