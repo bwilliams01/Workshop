@@ -51,6 +51,16 @@ As stated in the first article, one of the main United Nations Millennium Develo
 
 My central research question is “how do sectoral conditions further affect child malnutrition rates in developing countries who are recovering from natural disasters?” Thus far, research gaps I have encountered throughout this process was finding conclusive data with no shortcomings (DHS data) and geospatial methods that pertain solely to child undernutrition in Haiti. In the future, more geospatial data could be collected surrounding nutrition rates in affected countries. 
 
+## Figures
+
+*Figure 1
+
+
+*Figure 4
+
+*Figure 5
+
+
 *****
 **Word Count: 2181**
 *****
