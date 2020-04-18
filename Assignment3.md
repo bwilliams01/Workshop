@@ -53,11 +53,11 @@ My central research question is “how do sectoral conditions further affect chi
 
 ## Figures
 
-*Figure 1
+*Figure 1*
 
-<img src="https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-12-21/figures/1">
+![Screen Shot 2020-04-18 at 12.20.54 AM](/Users/brianna/Desktop/Screen Shot 2020-04-18 at 12.20.54 AM.png)
 
-*Figure 4
+*Figure 4*
 
 *Figure 5
 
