@@ -1,9 +1,6 @@
-
-
  # Geospatial Data Methods of Analyzing Child Malnutrition Among Disaster
  
 Brianna Williams
-19 April 2020
 
 ### Introduction
 
@@ -71,8 +68,11 @@ My central research question is “how do sectoral conditions further affect chi
 
 
 *****
+
 **Word Count: 2181**
+
 *****
+
 ### References
 [1] Balk, D., Storeygard, A., Levy, M., Gaskell, J., Sharma, M., & Flor, R. (2005, November 10). Child hunger in the developing world: An analysis of environmental and social correlates. Retrieved from <http://www.sciencedirect.com/science/article/pii/S0306919205000886>
 
