@@ -1,6 +1,4 @@
- # Geospatial Data Methods of Analyzing Child Malnutrition Among Disaster
- 
-Brianna Williams
+# Geospatial Data Methods of Analyzing Child Malnutrition Among Disaster
 
 ### Introduction
 
