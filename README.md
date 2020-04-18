@@ -22,3 +22,5 @@
 [Annotated Bibliography](https://bwilliams01.github.io/workshop/Assignment1) Feb. 25
 
 [Literature Review](https://bwilliams01.github.io/workshop/Assignment2) April 5
+
+[Investigating Methodologies](https://bwilliams01.github.io/workshop/Assignment3) April 19
