@@ -57,13 +57,17 @@ My central research question is “how do sectoral conditions further affect chi
 
 ![Figure 1](https://www.researchgate.net/profile/Jason_Blackburn/publication/236183994/figure/fig1/AS:195704636088331@1423671029670/Examples-from-the-spatial-video-Storyteller-software-showing-two-of-the-health-risks_W640.jpg)
 
+
 *Figure 4*
 
-![Figure 4](Users/brianna/Desktop/Screen Shot 2020-04-18 at 1.01.20 AM.png)
+![Figure 4](https://pbs.twimg.com/media/EV3LcBJXsAAaZ0f?format=jpg&name=medium)
 
 
+*Figure 5*
 
-*Figure 5
+![Figure 5](https://pbs.twimg.com/media/EV3LaddWsAI8MaX?format=jpg&name=medium)
+
+
 
 
 *****
