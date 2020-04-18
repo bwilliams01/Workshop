@@ -51,12 +51,15 @@ As stated in the first article, one of the main United Nations Millennium Develo
 
 My central research question is “how do sectoral conditions further affect child malnutrition rates in developing countries who are recovering from natural disasters?” Thus far, research gaps I have encountered throughout this process was finding conclusive data with no shortcomings (DHS data) and geospatial methods that pertain solely to child undernutrition in Haiti. In the future, more geospatial data could be collected surrounding nutrition rates in affected countries. 
 
-## Figures
+### Figures
 
 *Figure 1*
+
 ![Figure 1](https://www.researchgate.net/profile/Jason_Blackburn/publication/236183994/figure/fig1/AS:195704636088331@1423671029670/Examples-from-the-spatial-video-Storyteller-software-showing-two-of-the-health-risks_W640.jpg)
 
 *Figure 4*
+
+
 
 *Figure 5
 
@@ -71,4 +74,5 @@ My central research question is “how do sectoral conditions further affect chi
 
 [3] Curtis, A., Blackburn, J. K., Widmer, J. M., & Jr, J. M. (2013). A ubiquitous method for street scale spatial data collection and analysis in challenging urban environments: mapping health risks using spatial video in Haiti. *International Journal of Health Geographics,* 12(1), 21. <https://doi.org/10.1186/1476-072X-12-21>
 
-[4] Spray, A. L., Eddy, B., Hipp, J. A., & Iannotti, L. (2013). Spatial Analysis of Undernutrition of Children in Léogâne Commune, Haiti. Food and Nutrition Bulletin, 34(4), 444–461. <https://doi.org/10.1177/156482651303400410.>
+[4] Spray, A. L., Eddy, B., Hipp, J. A., & Iannotti, L. (2013). Spatial Analysis of Undernutrition of Children in Léogâne Commune, Haiti. Food and Nutrition Bulletin, 34(4), 444–461. <https://journals.sagepub.com/doi/abs/10.1177/156482651303400410#articleCitationDownloadContainer>
+
