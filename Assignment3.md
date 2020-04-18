@@ -55,7 +55,7 @@ My central research question is “how do sectoral conditions further affect chi
 
 *Figure 1
 
-<img src="http://www.exampleimagehost.com/my-cute-dog.jpg">
+<img src="https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-12-21/figures/1">
 
 *Figure 4
 
